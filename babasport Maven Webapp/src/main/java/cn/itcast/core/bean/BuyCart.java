@@ -6,7 +6,7 @@ import java.util.List;
 import org.codehaus.jackson.annotate.JsonIgnore;
 
 /**
- * 购物车
+ * 购物车 
  * @author Administrator
  *
  */
